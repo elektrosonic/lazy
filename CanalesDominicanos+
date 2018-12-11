@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1,CERTV Canal 4
+http://69.64.54.45:8000/live/gratis/gratis/92.ts
+#EXTINF:-1,Telemicro Canal 5
+http://free-iptv.pro:8000/01010101/01010101/29492
+#EXTINF:-1,Antena Latina
+http://144.217.254.216:8000/live/leonora/Pb8ZitdXgs/73.ts
+#EXTINF:-1,Color Vision 9
+http://167.114.174.164:25461/live/suport837/premieriptv1/641.ts
+#EXTINF:-1,MicroVision Canal 10
+http://deltatvfull.club:25461/live/Marcoaurelio/bgCDTJdJSm/31099.ts
+#EXTINF:-1,TELESISTEMA
+http://tvpremiumhd.club/lista-gratuita/ar/s913.ts
+http://167.114.174.164:25461/live/suport837/premieriptv1/641.ts
+#EXTINF:-1,Digital 15 RD
+http://deltatvfull.club:25461/live/andre1/andre1/31098.ts
+#EXTINF:-1,CDN
+http://66.70.179.201:25461/live/Local/149018/8.ts
+#EXTINF:-1,CDN Sports Max
+http://www.iptvmexico.xyz/str33/2087.m3u8
+#EXTINF:-1,Telemundo USA
+http://free-iptv.pro:8000/77777777/77777777/29486
